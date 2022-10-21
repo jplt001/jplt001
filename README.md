@@ -3,7 +3,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jplt001)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/885b8cd2-8066-4c9c-ac56-5acf8a5f6efe.svg)](https://wakatime.com/@885b8cd2-8066-4c9c-ac56-5acf8a5f6efe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jplt001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jplt001/jplt001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
