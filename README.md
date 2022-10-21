@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm JP, I'm a Full-stack developer based in the Philippines.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jplt001&layout=compact)](https://github.com/jplt001)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jplt001)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning devops;
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything
+- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
