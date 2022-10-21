@@ -14,7 +14,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jplt001)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jplt001&repo=hris)](https://github.com/jplt001/hris)
-[![JP's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![JP's github activity graph](https://activity-graph.herokuapp.com/graph?username=jplt001)](https://github.com/jplt001) 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JP's github activity graph](https://activity-graph.herokuapp.com/graph?username=jplt001&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
