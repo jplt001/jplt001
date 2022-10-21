@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jplt001&layout=compact)](https://github.com/jplt001)
 
-[![JP's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jplt001)](https://github.com/jplt001)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jplt001)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/885b8cd2-8066-4c9c-ac56-5acf8a5f6efe.svg)](https://wakatime.com/@885b8cd2-8066-4c9c-ac56-5acf8a5f6efe)
 <!--
