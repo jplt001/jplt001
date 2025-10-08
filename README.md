@@ -22,9 +22,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qXx/giphy.gif" width="400" />
 </div>
 
-<details>
-<summary><b>Click to know more about me!</b></summary>
-
 - 🔭 I'm currently working on [Fleet Management System](https://github.com/jplt001/fleet-pulse-demo)
 - 🌱 I'm currently learning **more on React Native, serverless API, and UI/UX Designs**
 - 👨‍💻 All of my projects are available at [https://hosefino.vercel.app/](https://hosefino.vercel.app/)
@@ -32,8 +29,6 @@
 - 📫 How to reach me: **jplt.deveveloper001@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/joseph-patrick-timcang-0707ab134/)
 - ⚡ Fun fact: **Jack of all trades**
-
-</details>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZV7fjEUN9AQmQ/giphy.gif" width="400" />
