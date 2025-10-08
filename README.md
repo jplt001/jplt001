@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JP</h1>
+<h1 align="center">Hi 👋, I'm Josefino</h1>
 <h3 align="center">A passionate full-stack developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jplt001&label=Profile%20views&color=0e75b6&style=flat" alt="jplt001" /> </p>
