@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Josefino;Full-Stack+Developer+%F0%9F%92%BB;Code+%E2%9D%A4%EF%B8%8F+Create+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate full-stack developer from Philippines</h3>
+<h3 align="center">A passionate full-stack developer from the Philippines</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jplt001&label=Profile%20views&color=0e75b6&style=flat" alt="jplt001" />
@@ -18,10 +18,6 @@
 
 ### :rocket: About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qXx/giphy.gif" width="400" />
-</div>
-
 - 🔭 I'm currently working on [Fleet Management System](https://github.com/jplt001/fleet-pulse-demo)
 - 🌱 I'm currently learning **more on React Native, serverless API, and UI/UX Designs**
 - 👨‍💻 All of my projects are available at [https://hosefino.vercel.app/](https://hosefino.vercel.app/)
@@ -30,8 +26,14 @@
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/joseph-patrick-timcang-0707ab134/)
 - ⚡ Fun fact: **Jack of all trades**
 
+---
+
+### :chart_with_upwards_trend: GitHub Stats:
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZV7fjEUN9AQmQ/giphy.gif" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jplt001&show_icons=true&theme=radical" alt="jplt001" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jplt001&show_icons=true&locale=en&layout=compact&theme=radical" alt="jplt001" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplt001&theme=radical" alt="jplt001" width="400"/>
 </div>
 
 ---
@@ -108,29 +110,3 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="jplt001" />
   </a>
 </p>
-
----
-
-### :chart_with_upwards_trend: GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jplt001&show_icons=true&locale=en&layout=compact" alt="jplt001" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jplt001&show_icons=true&locale=en" alt="jplt001" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jplt001&" alt="jplt001" />
-</p>
-
----
-
-<div align="center">
-  
-  ### :star2: Profile Visitor Count :star2:
-  
-  ![Visitor Count](https://profile-counter.glitch.me/jplt001/count.svg)
-  
-</div>
